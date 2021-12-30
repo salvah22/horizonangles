@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Pycharm Editor
-Author: Salvador Hernandez
+Author: Salvador Hernandez 2
 
 This script is intended to address input pre-processing for 'RHESSys' and for other purposes, it calculates,
 for a Digital Elevation Model (DEM), the maximum obstruction angular height for each cell in any (polar coordinates)
